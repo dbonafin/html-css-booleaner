@@ -77,3 +77,35 @@ thead {
 .lightblue-row {
     background-color: #b1e5f2;
 }
+
+/*footer*/
+
+
+footer {
+    margin: 30px 10px;
+}
+
+h3 {
+    color: grey;
+    margin-bottom: 10px;
+}
+footer p {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.first-banner {
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 10px;
+}
+
+.second-banner {
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+}
