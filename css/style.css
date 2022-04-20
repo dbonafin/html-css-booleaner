@@ -5,3 +5,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*header*/
+
+header {
+    width: 1400px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+    background-position: center;
+}
+
+header #logo-img {
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
