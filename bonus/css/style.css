@@ -1,0 +1,119 @@
+/*reset*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*header*/
+
+header {
+    width: 1400px;
+    background-color: #c44691;
+    background-image: url(../img/pattern.png);
+    background-size: 40%;
+    background-position: center;
+}
+
+header #logo-img {
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+/*first part of the main section*/
+
+main {
+    width: 1020px;
+    margin: 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.author {
+    color: grey;
+    margin-bottom: 20px;
+}
+
+.pictures-box {
+    width: 1020px;
+}
+
+.pic-description {
+    font-size: 12px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+span {
+    background-color: yellow;
+}
+
+
+/*second part of the main section: unordered list,
+table and some text*/
+
+ol {
+    margin: 30px 10px;
+}
+
+table {
+    text-align: center;
+    width: 1020px;
+    margin-bottom: 20px;
+    border-spacing: 0px;
+    border: 1px solid purple;
+}
+
+.special-column {
+    width: 50%;
+}
+
+thead {
+    color: white;
+}
+
+.blue-row {
+    background-color: #c44691;
+}
+
+.lightblue-row {
+    background-color: #cca6c8;
+}
+
+/*footer*/
+
+
+footer {
+    margin: 30px 10px;
+}
+
+h3 {
+    color: grey;
+    margin-bottom: 10px;
+}
+footer p {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.first-banner {
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 10px;
+}
+
+.second-banner {
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+}
